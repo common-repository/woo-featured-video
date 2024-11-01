@@ -1,0 +1,11 @@
+.woofv .pswp__zoom-wrap{
+	margin: auto;
+	position: relative;
+	top: 0;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.woofv .pswp__zoom-wrap .wp-video {
+	margin: auto;
+}
